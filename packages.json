@@ -1,0 +1,26 @@
+[
+  {
+    "package": "discretewq",
+    "url": "https://github.com/sbashevkin/discretewq"
+  },
+  {
+    "package": "LTMRdata",
+    "url": "https://github.com/sbashevkin/LTMRdata"
+  },
+  {
+    "package": "deltareportr",
+    "url": "https://github.com/sbashevkin/deltareportr"
+  },
+  {
+    "package": "spacetools",
+    "url": "https://github.com/sbashevkin/spacetools"
+  },
+  {
+    "package": "zooper",
+    "url": "https://github.com/InteragencyEcologicalProgram/zooper"
+  },
+  {
+    "package": "deltamapr",
+    "url": "https://github.com/InteragencyEcologicalProgram/deltamapr"
+  }
+]
