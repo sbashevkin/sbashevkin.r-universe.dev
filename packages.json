@@ -22,5 +22,9 @@
   {
     "package": "deltamapr",
     "url": "https://github.com/InteragencyEcologicalProgram/deltamapr"
+  },
+  {
+    "package": "deltafish",
+    "url": "https://github.com/delta-stewardship-council/deltafish"
   }
 ]
